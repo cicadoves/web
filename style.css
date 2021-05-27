@@ -1,4 +1,16 @@
 body {
   background: black;
   color: white;
+  
+  font-family: Sans-Serif;
+  font-size: 24;
+}
+
+input {
+  background: white;
+  
+  border: 0;
+  
+  font-family: Sans-Serif;
+  font-size: 24;
 }
