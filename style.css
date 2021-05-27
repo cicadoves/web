@@ -3,7 +3,7 @@ body {
   color: white;
   
   font-family: Sans-Serif;
-  font-size: 24;
+  font-size: 5vw;
 }
 
 input {
@@ -12,5 +12,5 @@ input {
   border: 0;
   
   font-family: Sans-Serif;
-  font-size: 24;
+  font-size: 5vw;
 }
