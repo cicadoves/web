@@ -13,4 +13,6 @@ input {
   
   font-family: Sans-Serif;
   font-size: 24;
+  
+  display: block;
 }
