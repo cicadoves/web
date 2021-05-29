@@ -1,5 +1,5 @@
 body {
-  background: MidnightBlue;
+  background: black;
   color: white;
   
   font-family: Sans-Serif;
@@ -10,11 +10,11 @@ body {
 
 input {
   background: white;
-  color: MidnightBlue;
   
   font-family: inherit;
   font-size: inherit;
-  
+
+  border-style: hidden;
+
   display: block;
-  border: 0;
 }

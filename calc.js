@@ -1,8 +1,8 @@
-var inp1 = document.getElementById('first');
-var inp2 = document.getElementById('second');
-var out = document.getElementById('result');
+var inp1 = document.getElementById('inp1');
+var inp2 = document.getElementById('inp2');
+var out = document.getElementById('out');
 
-calc.addEventListener('submit', function(event){
+add.addEventListener('submit', function(event){
   event.preventDefault();
   val1 = parseFloat(inp1.value);
   val2 = parseFloat(inp2.value);
