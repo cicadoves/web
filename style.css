@@ -1,20 +1,23 @@
 body {
-  background: black;
-  color: white;
-  
-  font-family: Sans-Serif;
-  font-size: 5vw;
-  
-  margin: 5%;
+	background: black;
+	color: white;
+
+	font-family: Sans-Serif;
+	font-size: 5vw;
+
+	margin: 5%;
 }
 
 input {
-  background: white;
-  
-  font-family: inherit;
-  font-size: inherit;
+	background: white;
 
-  border-style: hidden;
+	font-family: inherit;
+	font-size: inherit;
 
-  display: block;
+	border-style: hidden;
+
+	width: 5vw;
+	height: 5vw;
+
+	display: block;
 }
