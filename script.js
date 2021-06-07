@@ -10,7 +10,7 @@ function check() {
 }
 
 function col(text) {
-	for (const i of Array(table.length+1).keys()) {
-		table.rows[i].cells[0].innerHTML = text;
+	for (const i of Array(table.rows.length).keys()) {
+		table.rows[i].columns[0].innerHTML = text;
 	}
 }
