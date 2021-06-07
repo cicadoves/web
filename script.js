@@ -1,5 +1,5 @@
 var box = document.getElementById('box');
-var text = document.getElementById('text');
+var table = document.getElementById('table').columns[0];
 
 function check() {
 	if (box.checked==true) {
