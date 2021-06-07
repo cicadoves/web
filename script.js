@@ -10,5 +10,6 @@ function check() {
 }
 
 function col(text) {
-	table.columns[0].innerHTML = text;
+	table.rows[0].columns[0].innerHTML = text;
+	table.rows[1].columns[0].innerHTML = text;
 }
