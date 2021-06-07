@@ -10,7 +10,5 @@ function check() {
 }
 
 function col(text) {
-	for (const i of Array(table.rows.length).keys()) {
-		table.rows[i].columns[0].innerHTML = text;
-	}
+	table.columns[0].innerHTML = text;
 }
