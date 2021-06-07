@@ -10,6 +10,7 @@ function check() {
 }
 
 function col(text) {
-	table.rows[0].cells[0].innerHTML = text;
-	table.rows[1].cells[0].innerHTML = text;
+	for (var i = 0; i < table.rows.length; i++) {
+		table.rows[i].cells[0].innerHTML = text;
+	}
 }
