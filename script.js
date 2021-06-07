@@ -1,10 +1,16 @@
 var box = document.getElementById('box');
-var table = document.getElementById('table').columns[0];
+var table = document.getElementById('table');
 
 function check() {
 	if (box.checked==true) {
-		text.innerHTML = 'Checked';
+		col('-1');
 	} else {
-		text.innerHTML = 'Unchecked';
+		col('-2');
+	}
+}
+
+function col(text) {
+	for (const i of Array(table.length).keys()) {
+		table.rows[i].cells[0].innerHTML = text;
 	}
 }
