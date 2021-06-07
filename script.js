@@ -3,9 +3,9 @@ var table = document.getElementById('table');
 
 function check() {
 	if (box1.checked) {
-		writecol('not');
+		writecol('1');
 	} else {
-		writecol('');
+		writecol('0');
 	}
 }
 
