@@ -2,7 +2,7 @@ var box = document.getElementById('box');
 var table = document.getElementById('table');
 
 function check() {
-	if (box.checked==true) {
+	if (box.checked) {
 		col('-1');
 	} else {
 		col('-2');
