@@ -3,14 +3,15 @@ var table = document.getElementById('table');
 
 function check() {
 	if (box.checked) {
-		column('1');
+		args = ['oniichan', 'yamette'];
 	} else {
-		column('0');
+		args = ['oneechan', 'iyaa'];
 	}
+	column(args)
 }
 
-function column(text) {
+function column(args) {
 	for (var i = 0; i < table.rows.length; i++) {
-		table.rows[i].cells[0].innerHTML = text;
+		table.rows[i].cells[0].innerHTML = args[i];
 	}
 }
