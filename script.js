@@ -3,9 +3,9 @@ var table = document.getElementById('table');
 
 function check() {
 	if (box.checked) {
-		args = ['oniichan', 'yamette'];
+		args = ['oniichan', 'yamette', 'and im like yo wtf this is just a string'];
 	} else {
-		args = ['oneechan', 'iyaa'];
+		args = ['oneechan', 'iyaa', 'and he is like no no no if else else if'];
 	}
 	column(args)
 }
