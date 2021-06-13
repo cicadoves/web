@@ -17,7 +17,7 @@ function check() {
 //		args = ['d', 'e', 'f'];
 //	} else {
 //		args = ['u', 'v', 'w'];
-	}
+//	}
 //	column2(args)
 	setsym(x)
 }
