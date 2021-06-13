@@ -23,9 +23,9 @@ function check() {
 
 function calc() {
 	if (box.checked) {
-		alert(0+1);
-	} else {
 		alert(0-1);
+	} else {
+		alert(0+1);
 	}
 
 //function column(args) {
