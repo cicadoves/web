@@ -1,5 +1,6 @@
 var box = document.getElementById('box');
 //var box2 = document.getElementById('box2');
+var res = document.getElementById('res');
 var table = document.getElementById('table');
 
 function check() {
@@ -22,11 +23,15 @@ function check() {
 }
 
 function calc() {
+	a = table.rows[0].cells[0].innerHTML;
+	b = table.rows[0].cells[2].innerHTML;
 	if (box.checked) {
-		alert(0-1);
+		result = a - b;
 	} else {
-		alert(0+1);
+		result = a + b;
 	}
+	res.innerHTML = 'Result: ' + result;
+}
 
 //function column(args) {
 //	for (var i = 0; i < table.rows.length; i++) {
