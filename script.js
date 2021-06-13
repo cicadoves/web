@@ -18,6 +18,15 @@ function check() {
 	column2(args)
 }
 
+function calc() {
+	if (box.checked && !(box2.checked)) {
+		alert(table.rows[0].cells[0].innerHTML + table.rows[0].cells[1].innerHTML)
+	} else if (box2.checked && !box.checked) {
+		alert(table.rows[0].cells[0].innerHTML * table.rows[0].cells[1].innerHTML)
+	} else {
+		alert('Choose ONLY an operation')
+	}
+
 function column(args) {
 	for (var i = 0; i < table.rows.length; i++) {
 		table.rows[i].cells[0].innerHTML = args[i];
