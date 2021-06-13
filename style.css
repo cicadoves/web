@@ -18,3 +18,8 @@ input {
 
 	display: block;
 }
+
+button {
+	font-family: inherit;
+	font-size: inherit;
+}
