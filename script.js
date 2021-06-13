@@ -4,27 +4,30 @@ var table = document.getElementById('table');
 
 function check() {
 	if (box.checked) {
-		args = ['a', 'b', 'c'];
-	} else {
-		args = ['x', 'y', 'z'];
+		x = '+';
+//		args = ['a', 'b', 'c'];
+//	} else {
+//		args = ['x', 'y', 'z'];
 	}
-	column(args)
+//	column(args)
 
 	if (box2.checked) {
-		args = ['d', 'e', 'f'];
-	} else {
-		args = ['u', 'v', 'w'];
+		x = 'x';
+//		args = ['d', 'e', 'f'];
+//	} else {
+//		args = ['u', 'v', 'w'];
 	}
-	column2(args)
+//	column2(args)
+	setsym(x)
 }
 
 function calc() {
 	if (box.checked && !(box2.checked)) {
-		alert(table.rows[0].cells[0].innerHTML + table.rows[0].cells[1].innerHTML)
+		alert(table.rows[0].cells[0].innerHTML + table.rows[0].cells[2].innerHTML);
 	} else if (box2.checked && !box.checked) {
-		alert(table.rows[0].cells[0].innerHTML * table.rows[0].cells[1].innerHTML)
+		alert(table.rows[0].cells[0].innerHTML * table.rows[0].cells[2].innerHTML);
 	} else {
-		alert('Choose ONLY an operation')
+		alert('Choose ONLY an operation');
 	}
 
 function column(args) {
@@ -37,4 +40,8 @@ function column2(args) {
 	for (var i = 0; i < table.rows.length; i++) {
 		table.rows[i].cells[1].innerHTML = args[i];
 	}
+}
+
+function setsym(x) {
+	table.rows[0].cells[1].innerHTML = x;
 }
