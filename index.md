@@ -13,5 +13,7 @@ Q: What are you doing?
 A: I have no idea.
 
 # Projects
+List of stuffs that I made
 
-## [Dscord](https://thisgary.github.io/dscord)
+## [Dscord](https://thisgary.github.io/Dscord)
+A Python wrapper that wraps another Python wrapper.
