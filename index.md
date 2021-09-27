@@ -11,3 +11,7 @@ A: I am Gary, one of the many.
 Q: What are you doing?
 
 A: I have no idea.
+
+# Projects
+
+## [Dscord](https://thisgary.github.io/dscord)
