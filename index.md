@@ -16,4 +16,4 @@ A: I have no idea.
 
 Q: What is the purpose of this website?
 
-A: [Read this](README.md)
+A: [Read this](./)
