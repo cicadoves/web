@@ -30,5 +30,5 @@ Another python wrapper for Discord API, meh.
 ## [Versioning](https://thisgary.github.io/Versioning)
 A good example of overkill, Git tag version bumper.
 
-## [TNPO](https://thisgary.github.io/TNPO)
+## [3n + 1](https://thisgary.github.io/TNPO)
 Blame [that person](https://github.com/nexitysecond) for this.
