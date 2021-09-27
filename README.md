@@ -1,2 +1,2 @@
 # thisgary.github.io
-Github Pages testing
+Github Pages feature testing
