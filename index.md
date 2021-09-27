@@ -25,10 +25,10 @@ List of stuffs that I made
 A Python wrapper that wraps another Python wrapper.
 
 ## [Dscord2](https://thisgary.github.io/dscord2)
-Another python wrapper for Discord API, meh.
+And here's another Python wrapper for Discord API.
 
 ## [Versioning](https://thisgary.github.io/versioning)
 Git tag version bumper, A good example of overkill.
 
 ## [3n + 1](https://thisgary.github.io/tnpo)
-Blame [that person](https://github.com/nexitysecond) for this.
+Blame [that person](https://github.com/nexitysecond) for this rabbit hole.
