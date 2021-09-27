@@ -12,6 +12,12 @@ Q: What are you doing?
 
 A: I have no idea.
 
+---
+
+Q: Do you play badminton?
+
+A: No.
+
 # Projects
 List of stuffs that I made
 
