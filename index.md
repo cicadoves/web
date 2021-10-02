@@ -21,14 +21,17 @@ A: No.
 # Projects
 List of stuffs that I made
 
-## [Dscord](https://thisgary.github.io/dscord)
+## [Dscord](dscord)
 A Python wrapper that wraps another Python wrapper.
 
-## [Dscord2](https://thisgary.github.io/dscord2)
+## [Dscord2](dscord2)
 And here's another Python wrapper for Discord API.
 
-## [Versioning](https://thisgary.github.io/versioning)
+## [Hosting](hosting)
+In case I ever forget how.
+
+## [Versioning](versioning)
 Git tag version bumper, A good example of overkill.
 
-## [3n + 1](https://thisgary.github.io/tnpo)
+## [3n + 1](tnpo)
 Blame [that person](https://github.com/nexitysecond) for this rabbit hole.
