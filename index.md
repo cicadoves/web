@@ -21,10 +21,10 @@ A: No.
 # Projects
 List of stuffs that I made
 
-## [Dscord](dscord)
+## [7289DA](7289da)
 A Python wrapper that wraps another Python wrapper.
 
-## [Dscord2](dscord2)
+## [5865F2](5865f2)
 And here's another Python wrapper for Discord API.
 
 ## [Hosting](hosting)
