@@ -30,8 +30,5 @@ And here's another Python wrapper for Discord API.
 ## [Hosting](hosting)
 In case I ever forget how.
 
-## [Versioning](versioning)
-Git tag version bumper, A good example of overkill.
-
 ## [3n + 1](tnpo)
 Blame [that person](https://github.com/nexitysecond) for this rabbit hole.
