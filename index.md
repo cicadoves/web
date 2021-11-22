@@ -1,4 +1,5 @@
 # This Gary's Website
+
 A website that nobody asked for
 
 # About
@@ -19,16 +20,21 @@ Q: Do you play badminton?
 A: No.
 
 # Projects
+
 List of stuffs that I made
 
-## [7289DA](7289da)
-A Python wrapper that wraps another Python wrapper.
+## [blurple-o](blurple-o)
 
-## [5865F2](5865f2)
-And here's another Python wrapper for Discord API.
+A Discord API wrapper's wrapper.
+
+## [blurple](blurple)
+
+And here's another Discord API wrapper.
 
 ## [Hosting](hosting)
+
 In case I ever forget how.
 
 ## [3n + 1](tnpo)
+
 Blame [that person](https://github.com/nexitysecond) for this rabbit hole.
