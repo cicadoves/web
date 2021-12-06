@@ -35,6 +35,10 @@ And here's another Discord API wrapper.
 
 In case I ever forget how.
 
+## [Colors](colors)
+
+Hex color pixel png generator made complicate.
+
 <!--
 ## [3n + 1](tnpo)
 
