@@ -35,6 +35,8 @@ And here's another Discord API wrapper.
 
 In case I ever forget how.
 
+<!--
 ## [3n + 1](tnpo)
 
 Blame [that person](https://github.com/nexitysecond) for this rabbit hole.
+-->
