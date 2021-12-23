@@ -3,21 +3,8 @@
 A website that nobody asked for
 
 # About
-Q: Who are you?
 
-A: I am [Gary](https://thisgary.github.io/thisgary), one of the many.
-
----
-
-Q: What are you doing?
-
-A: I have no idea.
-
----
-
-Q: Do you play badminton?
-
-A: No.
+I am [Gary](https://thisgary.github.io/thisgary), one of the many.
 
 # Projects
 
