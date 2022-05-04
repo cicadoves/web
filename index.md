@@ -4,13 +4,13 @@ A website that nobody asked for
 
 # About
 
-I am [Gary](https://thisgary.github.io/thisgary), one of the many.
+Hi, I am [Gary](https://thisgary.github.io/thisgary), one of the many.
 
 # Projects
 
 List of stuffs that I made
 
-## [blurple-o](blurple-o)
+## [nexity](nexity)
 
 A Discord API wrapper's wrapper.
 
