@@ -1,5 +1,3 @@
-# About
-
 Hi, I am [Gary](wotgary)
 
 # Projects
