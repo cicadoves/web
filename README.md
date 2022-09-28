@@ -1,6 +1,6 @@
-# wotgary.github.io
+# garylkz.github.io
 
-Hi, I am [Gary](wotgary)
+Hi, I am [Gary](garylkz)
 
 # Projects
 
